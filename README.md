@@ -4,7 +4,7 @@ i am from israel 🟦⬜. <br />
 my favorite programming languages are python 🐍, java ☕, c++ 💙. <br />
 
 hobbies :<br />
-1. play guitar 🎸 <br />
+1. play chess ♟️ <br />
 2. eat 🍕 <br />
 3. physics 🧑‍🔬 <br />
 4. math 📓 <br />
